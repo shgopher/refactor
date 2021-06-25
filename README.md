@@ -27,4 +27,4 @@
 
 ## star
 
-[![Stargazers over time](https://starchart.cc/shgopher/GOFamily.svg)](https://starchart.cc/shgopher/GOFamily)
+[![Stargazers over time](https://starchart.cc/shgopher/refactor.svg)](https://starchart.cc/shgopher/refactor)
